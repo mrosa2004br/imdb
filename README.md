@@ -2,4 +2,4 @@
 - Repositório desafio de código java da Alura.
 
 ## Links Úteis
-[Sintaxe Básica Markdown](https:///ww.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
